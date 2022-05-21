@@ -26,8 +26,16 @@
    <img src="https://img.shields.io/badge/Machine Learning-3559f5"/>
    <img src="https://img.shields.io/badge/Cloud-3559f5"/>
   </p>
-  <p align="center" id="quote">
+  <hr/>
+    <h3 align="center">Automated daily quote</h3>
+  <p align="center">
+   <a href="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml">
+    <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg"/>
+   </a>
+  </p>
+  <p align="center" id="quote">  
    In a world in which the total of human knowledge is doubling about every ten years, our security can rest only on our ability to learn.
   </p>
+  
  </body>
 </html>
