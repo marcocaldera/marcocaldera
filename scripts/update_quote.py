@@ -9,9 +9,11 @@ headers = {
     "Authorization": f"Bearer {os.environ['NOTION_ACCESS_TOKEN']}"
 }
 
-url = f"https://api.notion.com/v1/databases/{os.environ['QUOTES_DATABASE_ID']}/query"
+# Get quote database data
 
-response = requests.post(url, headers=headers).json()
+quote_database_url = f"https://api.notion.com/v1/databases/{os.environ['QUOTES_DATABASE_ID']}/query"
+
+response = requests.post(quote_database_url, headers=headers).json()
 quotes = response["results"]
 quotes_id = []
 
@@ -20,7 +22,7 @@ for quote in quotes:
 
 random_quote_id = random.choice(quotes_id)
 
-# Get page content
+# Get quote content
 
 url = f"https://api.notion.com/v1/blocks/{random_quote_id}/children"
 response = requests.get(url, headers=headers).json()
@@ -29,13 +31,13 @@ content = ""
 
 for block in blocks:
     if block["type"] == "paragraph":
-
         for text in block["paragraph"]["rich_text"]:
             content += text["plain_text"]
 
+# Update README
+
 soup = BeautifulSoup(open("README.md"))
 result = soup.find(id='quote')
-
 result.string.replace_with(content)
 
 with open("README.md", "wb") as f_output:
