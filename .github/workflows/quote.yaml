@@ -12,16 +12,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Setup Python
-        uses: actions/setup-python@v3
+      - uses: actions/setup-python@v3
         with:
           python-version: 3.8
 
       - run: pip install requests
       - run: pip install beautifulsoup4
 
-      - name: update-quote
-        run: python scripts/update_quote.py
+      - run: python scripts/update_quote.py
         env:
           NOTION_ACCESS_TOKEN: ${{ secrets.NOTION_ACCESS_TOKEN }}
           QUOTES_DATABASE_ID: ${{ secrets.QUOTES_DATABASE_ID }}
