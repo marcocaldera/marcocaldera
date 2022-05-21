@@ -1,0 +1,33 @@
+name: Change Quote
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 9 * * *" # Daily at 9
+
+jobs:
+  generate_quote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: 3.8
+
+      - run: pip install requests
+      - run: pip install beautifulsoup4
+
+      - name: add-latest-follower
+        run: python scripts/update_quote.py
+        env:
+          NOTION_ACCESS_TOKEN: ${{ secrets.NOTION_ACCESS_TOKEN }}
+          QUOTES_DATABASE_ID: ${{ secrets.QUOTES_DATABASE_ID }}
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update quote"
