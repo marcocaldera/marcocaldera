@@ -27,6 +27,7 @@
    <img src="https://img.shields.io/badge/Cloud-3559f5"/>
   </p>
   <p align="center" id="quote">
+   In a world in which the total of human knowledge is doubling about every ten years, our security can rest only on our ability to learn.
   </p>
  </body>
 </html>
