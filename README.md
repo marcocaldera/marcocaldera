@@ -8,18 +8,25 @@
   </p>
   <!-- Badges: https://shields.io/ -->
   <p align="center">
+     <!--
    <a href="https://github.com/marcocaldera">
     <img src="https://img.shields.io/badge/-Github-000?style=flat&amp;logo=Github&amp;logoColor=white"/>
    </a>
+-->
    <a href="linkedin.com/in/marco-caldera">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white"/>
    </a>
    <a href="https://marcocaldera.com/blog">
     <img src="https://img.shields.io/badge/-Blog-3559f5?style=flat&amp;logo=Blogger&amp;logoColor=white"/>
    </a>
+      <a href="https://goodreads.com/marco_caldera">
+    <img src="https://img.shields.io/badge/-Goodreads-372213?style=flat&amp;logo=Goodreads&amp;logoColor=white"/>
+   </a>
+        <!--
    <a href="https://stackoverflow.com/users/5878210/marco-caldera">
     <img src="https://img.shields.io/badge/-StackOverflow-F58025?style=flat&amp;logo=Stack-Overflow&amp;logoColor=white"/>
    </a>
+   -->
   </p>
   <hr/>
     <h3 align="center">Automated daily quote</h3>
