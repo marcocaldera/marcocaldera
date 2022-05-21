@@ -25,3 +25,9 @@
   </a>
 
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mobile-3559f5">
+  <img src="https://img.shields.io/badge/Machine Learning-3559f5">
+  <img src="https://img.shields.io/badge/Cloud-3559f5">
+</p>
