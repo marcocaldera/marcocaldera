@@ -48,7 +48,18 @@
    </a>
   </p>
   <p align="center" id="recent-post">
-   
+   <a href="https://marcocaldera.com/2022/05/21/nathaniel-branden-learning/">
+    Nathaniel Branden – Learning
+   </a>
+   <br/>
+   <a href="https://marcocaldera.com/2022/05/20/charisma-yield-the-power/">
+    Charisma – Yield the Power
+   </a>
+   <br/>
+   <a href="https://marcocaldera.com/2022/05/14/do-good-be-good/">
+    Do good, be good
+   </a>
+   <br/>
   </p>
   <hr/>
   <p align="center">
