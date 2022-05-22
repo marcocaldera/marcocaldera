@@ -42,6 +42,11 @@
   <h3 align="center">
    Recent blog post
   </h3>
+  <p align="center">
+   <a href="https://github.com/marcocaldera/marcocaldera/actions/workflows/recent_post.yaml">
+    <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/recent_post.yaml/badge.svg"/>
+   </a>
+  </p>
   <p align="center" id="recent-post">
    
   </p>
