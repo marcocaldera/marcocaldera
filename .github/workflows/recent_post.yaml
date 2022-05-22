@@ -18,6 +18,7 @@ jobs:
 
       - run: pip install requests
       - run: pip install beautifulsoup4
+      - run: pip install lxml
 
       - run: python scripts/recent_post.py
 
