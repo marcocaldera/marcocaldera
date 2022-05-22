@@ -36,7 +36,14 @@
    </a>
   </p>
   <p align="center" id="quote">
-   Practice isn't the thing you do once you're good. It's the thing you do that makes you good.
+   Do not use power to suppress opinions you think pernicious, for if you do the opinions will suppress you.
+  </p>
+  <hr/>
+  <h3 align="center">
+   Recent blog post
+  </h3>
+  <p align="center" id="recent-post">
+   
   </p>
   <hr/>
   <p align="center">

@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import os
 import random
+from utils import update_readme
 
 headers = {
     "Accept": "application/json",
@@ -35,10 +36,4 @@ for block in blocks:
             content += text["plain_text"]
 
 # Update README
-
-soup = BeautifulSoup(open("README.md"))
-result = soup.find(id='quote')
-result.string.replace_with(content)
-
-with open("README.md", "wb") as f_output:
-    f_output.write(soup.prettify("utf-8"))  
+update_readme(id='quote', elements=content)
