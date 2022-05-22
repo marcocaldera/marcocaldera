@@ -35,7 +35,7 @@
     <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg"/>
    </a>
   </p>
-  <p align="center" id="quote" width="50%">
+  <p align="center" id="quote">
    Practice isn't the thing you do once you're good. It's the thing you do that makes you good.
   </p>
   <hr/>
