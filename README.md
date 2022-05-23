@@ -36,7 +36,7 @@
    </a>
   </p>
   <p align="center" id="quote">
-   Do not use power to suppress opinions you think pernicious, for if you do the opinions will suppress you.
+   Practice isn't the thing you do once you're good. It's the thing you do that makes you good.
   </p>
   <hr/>
   <h3 align="center">
