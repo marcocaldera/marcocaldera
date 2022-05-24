@@ -36,7 +36,7 @@
    </a>
   </p>
   <p align="center" id="quote">
-   Practice isn't the thing you do once you're good. It's the thing you do that makes you good.
+   In a world in which the total of human knowledge is doubling about every ten years, our security can rest only on our ability to learn.
   </p>
   <hr/>
   <h3 align="center">
