@@ -36,7 +36,7 @@
    </a>
   </p>
   <p align="center" id="quote">
-   In a world in which the total of human knowledge is doubling about every ten years, our security can rest only on our ability to learn.
+   Thoughts become things. If you see it in your mind, you will hold it in your hand.
   </p>
   <hr/>
   <h3 align="center">
