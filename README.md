@@ -36,7 +36,7 @@
    </a>
   </p>
   <p align="center" id="quote">
-   Thoughts become things. If you see it in your mind, you will hold it in your hand.
+   To the extent that I evade responsibility, I inflict wounds on my self-esteem. In accepting responsibility, I build self-esteem.
   </p>
   <hr/>
   <h3 align="center">
@@ -66,25 +66,47 @@
    Tools I love
   </h3>
   <p align="center">
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-&nbsp;&nbsp;
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-&nbsp;&nbsp;
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/08e8077e6cd7375c007c6fd6ac8cced5d7738494/topics/google-cloud/google-cloud.png"></code>
-&nbsp;&nbsp;
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+   <code>
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+   </code>
+   <code>
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+   </code>
+   <code>
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>
+   </code>
+   <code>
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+   </code>
+   <code>
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+   </code>
+   <code>
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
+   </code>
+   <code>
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"/>
+   </code>
+   <code>
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"/>
+   </code>
+   <code>
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/08e8077e6cd7375c007c6fd6ac8cced5d7738494/topics/google-cloud/google-cloud.png"/>
+   </code>
+   <code>
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"/>
+   </code>
+   <code>
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
+   </code>
   </p>
   <p align="center">
-   <img src="https://img.shields.io/badge/Mobile-3559f5"/>
-   <img src="https://img.shields.io/badge/Machine Learning-3559f5"/>
-   <img src="https://img.shields.io/badge/Cloud-3559f5"/>
+   <img src="https://img.shields.io/badge/Mobile-3559f5">
+    <img src="https://img.shields.io/badge/Machine Learning-3559f5">
+     <img src="https://img.shields.io/badge/Cloud-3559f5">
+     </img>
+    </img>
+   </img>
   </p>
  </body>
 </html>
