@@ -36,7 +36,7 @@
    </a>
   </p>
   <p align="center" id="quote">
-   Practice isn't the thing you do once you're good. It's the thing you do that makes you good.
+   Often what people call “thinking” is merely recycling the opinions of others.
   </p>
   <hr/>
   <h3 align="center">
@@ -69,7 +69,9 @@
    <code>
     <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
    </code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
+   <code>
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+   </code>
    <code>
     <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>
    </code>
@@ -99,12 +101,9 @@
    </code>
   </p>
   <p align="center">
-   <img src="https://img.shields.io/badge/Mobile-3559f5">
-    <img src="https://img.shields.io/badge/Machine Learning-3559f5">
-     <img src="https://img.shields.io/badge/Cloud-3559f5">
-     </img>
-    </img>
-   </img>
+   <img src="https://img.shields.io/badge/Mobile-3559f5"/>
+   <img src="https://img.shields.io/badge/Machine Learning-3559f5"/>
+   <img src="https://img.shields.io/badge/Cloud-3559f5"/>
   </p>
  </body>
 </html>
