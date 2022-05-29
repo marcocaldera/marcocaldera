@@ -36,7 +36,7 @@
    </a>
   </p>
   <p align="center" id="quote">
-   Do not use power to suppress opinions you think pernicious, for if you do the opinions will suppress you.
+   If my aim is to prove I am &ldquo;enough,&rdquo; the project goes on to infinity&mdash;because the battle was already lost on the day I conceded the issue was debatable.
   </p>
   <hr>
   <h3 align="center">
@@ -66,9 +66,7 @@
    Tools I love
   </h3>
   <p align="center">
-   <code>
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-   </code>
+   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
    &nbsp;&nbsp;
    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
