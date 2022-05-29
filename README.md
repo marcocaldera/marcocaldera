@@ -91,7 +91,7 @@
    Active side project
   </h3>
   <p align="center">
-   <img src="https://img.shields.io/applestore/v/1553430631.svg">
+   <img src="https://img.shields.io/itunes/v/1553430631.svg">
   </p>
  </body>
 </html>
