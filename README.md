@@ -91,7 +91,12 @@
    Active side project
   </h3>
   <p align="center">
-   <img src="https://img.shields.io/itunes/v/1553430631.svg">
+  <a href="https://marcocaldera.com/portfolio/personal-journal-a-sigh-of-relief/">
+  <img src="https://img.shields.io/badge/Personal Journal-3559f5">
+   </a>
+  <a href="https://apps.apple.com/app/diario-personale/id1553430631?ign-itscg=30200&ign-itsct=apps_box_badge">
+  <img src="https://img.shields.io/itunes/v/1553430631.svg">
+   </a>
   </p>
  </body>
 </html>
