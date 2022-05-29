@@ -36,7 +36,7 @@
    </a>
   </p>
   <p align="center" id="quote">
-   Often what people call “thinking” is merely recycling the opinions of others.
+   To the extent that I evade responsibility, I inflict wounds on my self-esteem. In accepting responsibility, I build self-esteem.
   </p>
   <hr/>
   <h3 align="center">
