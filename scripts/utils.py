@@ -10,4 +10,4 @@ def update_readme(id, elements):
         result.replace_with(elements)
 
     with open("README.md", "wb") as f_output:
-        f_output.write(soup.prettify("utf-8"))
+        f_output.write(soup.prettify(formatter=None))
