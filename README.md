@@ -97,6 +97,13 @@
   <a href="https://apps.apple.com/app/diario-personale/id1553430631?ign-itscg=30200&ign-itsct=apps_box_badge">
   <img src="https://img.shields.io/itunes/v/1553430631.svg">
    </a>
+   <br>
+   <a href="https://marcocaldera.com/portfolio/marys-recipes-legacy-for-generations">
+  <img src="https://img.shields.io/badge/My Recipes-3559f5">
+   </a>
+  <a href="https://apps.apple.com/app/marys-recipes/id1538358384?itsct=apps_box_badge&itscg=30200">
+  <img src="https://img.shields.io/itunes/v/1538358384.svg">
+   </a>
   </p>
  </body>
 </html>
