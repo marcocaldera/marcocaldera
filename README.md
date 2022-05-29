@@ -36,7 +36,7 @@
    </a>
   </p>
   <p align="center" id="quote">
-   Practice isn't the thing you do once you're good. It's the thing you do that makes you good.
+   To the extent that I evade responsibility, I inflict wounds on my self-esteem. In accepting responsibility, I build self-esteem.
   </p>
   <hr/>
   <h3 align="center">
@@ -101,12 +101,9 @@
    </code>
   </p>
   <p align="center">
-   <img src="https://img.shields.io/badge/Mobile-3559f5">
-    <img src="https://img.shields.io/badge/Machine Learning-3559f5">
-     <img src="https://img.shields.io/badge/Cloud-3559f5">
-     </img>
-    </img>
-   </img>
+   <img src="https://img.shields.io/badge/Mobile-3559f5"/>
+   <img src="https://img.shields.io/badge/Machine Learning-3559f5"/>
+   <img src="https://img.shields.io/badge/Cloud-3559f5"/>
   </p>
  </body>
 </html>
