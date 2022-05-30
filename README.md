@@ -45,20 +45,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/recent_post.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="recent-post">
-<a href="https://marcocaldera.com/2022/05/21/nathaniel-branden-learning/">
-    Nathaniel Branden &ndash; Learning
-   </a>
-<br>
-<a href="https://marcocaldera.com/2022/05/20/charisma-yield-the-power/">
-    Charisma &ndash; Yield the Power
-   </a>
-<br>
-<a href="https://marcocaldera.com/2022/05/14/do-good-be-good/">
-    Do good, be good
-   </a>
-<br>
-</p>
+<p align="center" id="recent-post"><a href="https://marcocaldera.com/2022/05/21/nathaniel-branden-learning/">Nathaniel Branden &ndash; Learning</a><br><a href="https://marcocaldera.com/2022/05/20/charisma-yield-the-power/">Charisma &ndash; Yield the Power &nbsp;</a><br><a href="https://marcocaldera.com/2022/05/14/do-good-be-good/">Do good, be good</a><br></p>
 <hr>
 <h3 align="center">
    Tools I love
