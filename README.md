@@ -35,7 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">To the extent that I evade responsibility, I inflict wounds on my self-esteem. In accepting responsibility, I build self-esteem.</p>
+<p align="center" id="quote">Being the richest man in the cemetery doesn't matter to me. Going to bed at night saying we've done something wonderful, that's what matters to me.</p>
 <hr>
 <h3 align="center">
    Recent blog post
