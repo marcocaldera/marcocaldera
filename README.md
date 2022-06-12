@@ -35,7 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Most of the issues of integrity we face are not big issues but small ones, yet the accumulated weight of our choices has an impact on our sense of self.</p>
+<p align="center" id="quote">When things change, we must change.</p>
 <hr>
 <h3 align="center">
    Recent blog post
