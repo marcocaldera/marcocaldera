@@ -35,7 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">To the extent that I evade responsibility, I inflict wounds on my self-esteem. In accepting responsibility, I build self-esteem.</p>
+<p align="center" id="quote">Things you do for yourself are gone when you are gone, but the things you do for others remain as your [and their] legacy</p>
 <hr>
 <h3 align="center">
    Recent blog post
