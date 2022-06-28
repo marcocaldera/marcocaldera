@@ -35,7 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Things you do for yourself are gone when you are gone, but the things you do for others remain as your [and their] legacy</p>
+<p align="center" id="quote">Often what people call &ldquo;thinking&rdquo; is merely recycling the opinions of others.</p>
 <hr>
 <h3 align="center">
    Recent blog post
