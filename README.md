@@ -35,7 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Things you do for yourself are gone when you are gone, but the things you do for others remain as your [and their] legacy</p>
+<p align="center" id="quote">The best time to plant a tree is twenty years ago. The second best time is now.</p>
 <hr>
 <h3 align="center">
    Recent blog post
