@@ -35,7 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">What we experience is change, not time. Aristotle observed that time does not exist without change, because what we call time is simply our measurement of the difference between &ldquo;before&rdquo; and &ldquo;after&rdquo;.</p>
+<p align="center" id="quote">Often what people call &ldquo;thinking&rdquo; is merely recycling the opinions of others.</p>
 <hr>
 <h3 align="center">
    Recent blog post
