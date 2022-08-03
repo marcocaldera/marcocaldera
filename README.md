@@ -35,7 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">It&rsquo;s a sign of wisdom to avoid believing every thought that enters your mind. It&rsquo;s a mark of emotional intelligence to avoid internalizing every feeling that enters your heart.</p>
+<p align="center" id="quote">The quicker you want something, the easier you are to manipulate.</p>
 <hr>
 <h3 align="center">
    Recent blog post
