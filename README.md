@@ -35,7 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">I am not here on earth to live up to someone else&rsquo;s expectations; my life belongs to me.</p>
+<p align="center" id="quote">Do not use power to suppress opinions you think pernicious, for if you do the opinions will suppress you.</p>
 <hr>
 <h3 align="center">
    Recent blog post
