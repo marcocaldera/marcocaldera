@@ -6,7 +6,7 @@ on:
     - cron: "0 */6 * * *" # Every 6 hours
 
 jobs:
-  generate_quote:
+  generate_habit_stats:
     runs-on: ubuntu-latest
 
     steps:

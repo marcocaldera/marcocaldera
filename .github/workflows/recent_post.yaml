@@ -6,7 +6,7 @@ on:
     - cron: "0 10 * * 1" # Every Monday at 10 (UTC)
 
 jobs:
-  generate_quote:
+  generate_recent_post:
     runs-on: ubuntu-latest
 
     steps:
