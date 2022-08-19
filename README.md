@@ -35,7 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Thoughts become things. If you see it in your mind, you will hold it in your hand.</p>
+<p align="center" id="quote">If my aim is to prove I am &ldquo;enough,&rdquo; the project goes on to infinity&mdash;because the battle was already lost on the day I conceded the issue was debatable.</p>
 <hr>
 <h3 align="center">
    Recent blog post
