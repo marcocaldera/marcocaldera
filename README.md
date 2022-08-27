@@ -35,7 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">What the wise man does in the beginning, the fool does in the end.</p>
+<p align="center" id="quote">Many communicators try to make themselves look smart. Great listeners are more interested in making their audiences feel smart.</p>
 <hr>
 <h3 align="center">
    Recent blog post
