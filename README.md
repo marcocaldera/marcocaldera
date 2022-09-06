@@ -35,7 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">What the wise man does in the beginning, the fool does in the end.</p>
+<p align="center" id="quote">When things change, we must change.</p>
 <hr>
 <h3 align="center">
    Recent blog post
