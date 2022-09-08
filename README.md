@@ -35,7 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Iniziare un nuovo cammino spaventa. Ma dopo ogni passo che percorriamo ci rendiamo conto di come era pericoloso rimanere fermi.</p>
+<p align="center" id="quote">Fear and pain should be treated as signals not to close our eyes but to open them wider.</p>
 <hr>
 <h3 align="center">
    Recent blog post
