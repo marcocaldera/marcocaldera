@@ -35,7 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Great work tends to grow out of ideas that others have overlooked, and no idea is so overlooked as one that&rsquo;s unthinkable.</p>
+<p align="center" id="quote">I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.</p>
 <hr>
 <h3 align="center">
    Recent blog post
