@@ -35,7 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">The best time to plant a tree is twenty years ago. The second best time is now.</p>
+<p align="center" id="quote">If knowledge is power, knowing what we don&rsquo;t know is wisdom.</p>
 <hr>
 <h3 align="center">
    Recent blog post
