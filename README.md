@@ -35,7 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">If knowledge is power, knowing what we don&rsquo;t know is wisdom.</p>
+<p align="center" id="quote">The moment you doubt whether you can fly, you cease forever to be able to do it.</p>
 <hr>
 <h3 align="center">
    Recent blog post
