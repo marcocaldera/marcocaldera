@@ -35,7 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">The joy of life comes from being better than you were yesterday, delighting in the true joys of life, and not in comparison to others</p>
+<p align="center" id="quote">If you are not acting in a way which will help you achieve those targets, your self-esteem is bound to hurt.</p>
 <hr>
 <h3 align="center">
    Recent blog post
