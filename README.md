@@ -35,7 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">If you are not acting in a way which will help you achieve those targets, your self-esteem is bound to hurt.</p>
+<p align="center" id="quote">Practice isn't the thing you do once you're good. It's the thing you do that makes you good.</p>
 <hr>
 <h3 align="center">
    Recent blog post
