@@ -35,7 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">I am not here on earth to live up to someone else&rsquo;s expectations; my life belongs to me.</p>
+<p align="center" id="quote">Fear and pain should be treated as signals not to close our eyes but to open them wider.</p>
 <hr>
 <h3 align="center">
    Recent blog post
