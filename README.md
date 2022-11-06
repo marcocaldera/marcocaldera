@@ -35,7 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Do not use power to suppress opinions you think pernicious, for if you do the opinions will suppress you.</p>
+<p align="center" id="quote">Great work tends to grow out of ideas that others have overlooked, and no idea is so overlooked as one that&rsquo;s unthinkable.</p>
 <hr>
 <h3 align="center">
    Recent blog post
