@@ -35,7 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Do not use power to suppress opinions you think pernicious, for if you do the opinions will suppress you.</p>
+<p align="center" id="quote">If you are not acting in a way which will help you achieve those targets, your self-esteem is bound to hurt.</p>
 <hr>
 <h3 align="center">
    Recent blog post
