@@ -35,7 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Because the one thing that you want to do, is to love. And that love should begin with you. Once you love you, you love the whole world. It's easy. It's delicious to love everybody and everything.</p>
+<p align="center" id="quote">Being the richest man in the cemetery doesn't matter to me. Going to bed at night saying we've done something meaningful, that's what matters to me.</p>
 <hr>
 <h3 align="center">
    Recent blog post
