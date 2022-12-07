@@ -35,7 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">If I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning.</p>
+<p align="center" id="quote">Try to pick a profession in which you enjoy even the most mundane, tedious parts. Then you will always be happy.</p>
 <hr>
 <h3 align="center">
    Recent blog post
