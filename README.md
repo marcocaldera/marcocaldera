@@ -35,7 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Try to pick a profession in which you enjoy even the most mundane, tedious parts. Then you will always be happy.</p>
+<p align="center" id="quote">The best time to plant a tree is twenty years ago. The second best time is now.</p>
 <hr>
 <h3 align="center">
    Recent blog post
