@@ -35,7 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">The best time to plant a tree is twenty years ago. The second best time is now.</p>
+<p align="center" id="quote">Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.</p>
 <hr>
 <h3 align="center">
    Recent blog post
