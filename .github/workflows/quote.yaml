@@ -27,3 +27,4 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4.16
         with:
           commit_message: "Update quote"
+          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
