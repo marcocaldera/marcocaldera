@@ -26,4 +26,4 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update Habits Stats"
-          commit_author: "github-actions[bot]"
+          commit_author: "Author <github-actions[bot]@users.noreply.github.com>"
