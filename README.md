@@ -35,7 +35,9 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Great work tends to grow out of ideas that others have overlooked, and no idea is so overlooked as one that&rsquo;s unthinkable.</p>
+<p align="center" id="quote">Impostor syndrome: "I don't know what I'm doing. It's only a matter of time until everyone finds out."
+Growth mindset: "| don't know what I'm doing yet. It's only a matter of time until I figure it out."
+The highest form of self-confidence is believing in your ability to learn.</p>
 <hr>
 <h3 align="center">
    Recent blog post
