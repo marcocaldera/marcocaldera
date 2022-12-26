@@ -45,7 +45,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/recent_post.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="recent-post"><a href="https://marcocaldera.com/2021/12/28/is-being-an-extrovert-the-only-way-to-be-successful/">Is Being An Extrovert the Only Way to Be Successful?</a><br><a href="https://marcocaldera.com/2022/06/28/living-consciously/">Living Consciously</a><br><a href="https://marcocaldera.com/2022/05/21/nathaniel-branden-learning/">Nathaniel Branden &ndash; Learning</a><br></p>
+<p align="center" id="recent-post"><a href="https://marcocaldera.com/2022/12/18/youre-not-great/">You&rsquo;re Not Great</a><br><a href="https://marcocaldera.com/2021/12/28/is-being-an-extrovert-the-only-way-to-be-successful/">Is Being An Extrovert the Only Way to Be Successful?</a><br><a href="https://marcocaldera.com/2022/06/28/living-consciously/">Living Consciously</a><br></p>
 <hr>
 <h3 align="center">
    Tools I love
