@@ -35,9 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Impostor syndrome: "I don't know what I'm doing. It's only a matter of time until everyone finds out."
-Growth mindset: "| don't know what I'm doing yet. It's only a matter of time until I figure it out."
-The highest form of self-confidence is believing in your ability to learn.</p>
+<p align="center" id="quote">Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.</p>
 <hr>
 <h3 align="center">
    Recent blog post
