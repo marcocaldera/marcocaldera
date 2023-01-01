@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import os
 import random
+import json
 from utils import update_readme
 
 headers = {
@@ -17,9 +18,16 @@ quote_database_url = f"https://api.notion.com/v1/databases/{os.environ['QUOTES_D
 response = requests.post(quote_database_url, headers=headers).json()
 quotes = response["results"]
 quotes_id = []
+quotes_title = {}
 
 for quote in quotes:
     quotes_id.append(quote["id"])
+    title = quote["properties"]["Name"]["title"] 
+    if title:
+        quotes_title[quote["id"]] = title[0]["plain_text"]
+    else:
+        quotes_title[quote["id"]] = ""
+
 
 random_quote_id = random.choice(quotes_id)
 
@@ -37,3 +45,7 @@ for block in blocks:
 
 # Update README
 update_readme(id='quote', elements=content)
+
+
+with open("data/quote.json", "w") as f:
+    f.write(json.dumps({"text": content, "title": quotes_title[random_quote_id]}))
