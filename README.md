@@ -35,7 +35,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.</p>
+<p align="center" id="quote">Leaving is never easy. But when you do leave, many new opportunities are waiting for you. Whether it is a place, a job, or a person, find the courage to leave the things that do not serve you anymore. Remember that the only time you are actually growing is when you are uncomfortable</p>
 <hr>
 <h3 align="center">
    Recent blog post
