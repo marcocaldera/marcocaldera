@@ -20,6 +20,9 @@
 <a href="https://goodreads.com/marco_caldera">
 <img src="https://img.shields.io/badge/-Goodreads-372213?style=flat&amp;logo=Goodreads&amp;logoColor=white">
 </a>
+<a href="https://notes.marcocaldera.com">
+<img src="https://img.shields.io/badge/-Notes-64bb2e?style=flat&amp;logo=blogger&amp;logoColor=white">
+</a>
 <!--
    <a href="https://stackoverflow.com/users/5878210/marco-caldera">
     <code><img src="https://img.shields.io/badge/-StackOverflow-F58025?style=flat&amp;logo=Stack-Overflow&amp;logoColor=white"/>
