@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Being the richest man in the cemetery doesn't matter to me. Going to bed at night saying we've done something meaningful, that's what matters to me.</p>
+<p align="center" id="quote">Often what people call &ldquo;thinking&rdquo; is merely recycling the opinions of others.</p>
 <hr>
 <h3 align="center">
    Recent blog post
