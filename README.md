@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.</p>
+<p align="center" id="quote">In a world in which the total of human knowledge is doubling about every ten years, our security can rest only on our ability to learn.</p>
 <hr>
 <h3 align="center">
    Recent blog post
