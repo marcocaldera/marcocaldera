@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Strive not to be a success, but rather to be of value</p>
+<p align="center" id="quote">Action isn&rsquo;t just the effect of motivation; it&rsquo;s also the cause of it.</p>
 <hr>
 <h3 align="center">
    Recent blog post
