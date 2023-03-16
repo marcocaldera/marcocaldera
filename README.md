@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">If you are depressed you are living in the past.&nbsp;If you are anxious you are living in the future.&nbsp;If you are at peace you are living in the present</p>
+<p align="center" id="quote">To the extent that I evade responsibility, I inflict wounds on my self-esteem. In accepting responsibility, I build self-esteem.</p>
 <hr>
 <h3 align="center">
    Recent blog post
