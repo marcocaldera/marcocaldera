@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">If my aim is to prove I am &ldquo;enough,&rdquo; the project goes on to infinity&mdash;because the battle was already lost on the day I conceded the issue was debatable.</p>
+<p align="center" id="quote">Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.</p>
 <hr>
 <h3 align="center">
    Recent blog post
