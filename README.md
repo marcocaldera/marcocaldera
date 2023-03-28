@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">If I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning.</p>
+<p align="center" id="quote">The more I learn, the more I realise how much I don't know.</p>
 <hr>
 <h3 align="center">
    Recent blog post
