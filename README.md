@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">We suffer more in imagination than in reality</p>
+<p align="center" id="quote">Many communicators try to make themselves look smart. Great listeners are more interested in making their audiences feel smart.</p>
 <hr>
 <h3 align="center">
    Recent blog post
