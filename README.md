@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Many communicators try to make themselves look smart. Great listeners are more interested in making their audiences feel smart.</p>
+<p align="center" id="quote">Her confidence wasn&rsquo;t in her existing knowledge&mdash;it was in her capacity to learn.</p>
 <hr>
 <h3 align="center">
    Recent blog post
