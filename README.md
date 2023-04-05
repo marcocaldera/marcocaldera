@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">In layman&rsquo;s terms, first principles thinking is basically the practice of actively questioning every assumption you think you&nbsp;&lsquo;know&rsquo;&nbsp;about a given problem or scenario &mdash; and then creating new knowledge and solutions from scratch. Almost like a newborn baby.On the flip side, reasoning by analogy is building knowledge and solving problems based on prior assumptions, beliefs and widely held &lsquo;best practices&rsquo; approved by majority of people.</p>
+<p align="center" id="quote">Spend each day trying to be a little wiser than you were when you woke up. Day by day, and at the end of the day&mdash;if you live long enough&mdash;like most people, you will get out of life what you deserve.</p>
 <hr>
 <h3 align="center">
    Recent blog post
