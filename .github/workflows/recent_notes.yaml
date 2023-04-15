@@ -1,12 +1,12 @@
-name: Update habits statistics
+name: Change Recent Notes
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *" # Every 6 hours
+    - cron: "0 9 * * 1" # Every Monday at 9 (UTC)
 
 jobs:
-  generate_habit_stats:
+  generate_recent_post:
     runs-on: ubuntu-latest
 
     steps:
@@ -17,13 +17,12 @@ jobs:
           python-version: 3.8
 
       - run: pip install requests
+      - run: pip install beautifulsoup4
+      - run: pip install lxml
 
-      - run: python scripts/generate_habit_stats.py
-        env:
-          NOTION_ACCESS_TOKEN: ${{ secrets.NOTION_ACCESS_TOKEN }}
-          HABIT_DATABASE_ID: ${{ secrets.HABIT_DATABASE_ID }}
+      - run: python scripts/recent_notes.py
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "ci: update habits stats"
+          commit_message: "ci: update recent notes"
           commit_author: "Author <github-actions[bot]@users.noreply.github.com>"

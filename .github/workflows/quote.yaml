@@ -26,5 +26,5 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update quote"
+          commit_message: "ci: update quote"
           commit_author: "Author <github-actions[bot]@users.noreply.github.com>"
