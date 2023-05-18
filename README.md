@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">I want to improve the world, and I want to smell good while doing it.</p>
+<p align="center" id="quote">Most of the issues of integrity we face are not big issues but small ones, yet the accumulated weight of our choices has an impact on our sense of self.</p>
 <hr>
 <h3 align="center">
    Recent notes
