@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Live as if you were to die tomorrow. Learn as if you were to live forever.</p>
+<p align="center" id="quote">Strive not to be a success, but rather to be of value</p>
 <hr>
 <h3 align="center">
    Recent notes
