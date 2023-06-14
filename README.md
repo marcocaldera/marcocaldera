@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">When you don't mind what's inside your mind you will be surprised at how much peace you will find</p>
+<p align="center" id="quote">Just because your mind tells you that something is awful or evil or unplanned or otherwise negative doesn&rsquo;t mean you have to agree.</p>
 <hr>
 <h3 align="center">
    Recent notes
