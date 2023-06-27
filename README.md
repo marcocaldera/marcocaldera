@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">If knowledge is power, knowing what we don&rsquo;t know is wisdom.</p>
+<p align="center" id="quote">Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.</p>
 <hr>
 <h3 align="center">
    Recent notes
