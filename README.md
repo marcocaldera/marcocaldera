@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.</p>
+<p align="center" id="quote">Thoughts become things. If you see it in your mind, you will hold it in your hand.</p>
 <hr>
 <h3 align="center">
    Recent notes
