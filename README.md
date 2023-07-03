@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.</p>
+<p align="center" id="quote">&ldquo;If you don&rsquo;t look back at yourself and think,21 &lsquo;Wow, how stupid I was a year ago,&rsquo; then you must not have learned much in the last year.&rdquo;</p>
 <hr>
 <h3 align="center">
    Recent notes
