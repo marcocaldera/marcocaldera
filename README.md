@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">I think it&rsquo;s unrealistic to have confidence when you don&rsquo;t have an undeniable stack of proof that you are who you say you are.If the only place that your confidence exists is in your mind and you have never manifested it into reality then when you are asking for isn&rsquo;t confidence, it&rsquo;s delusion.</p>
+<p align="center" id="quote">Behold, I send you forth as sheep in the midst of wolves. Be ye therefore wise as serpents and harmless as doves</p>
 <hr>
 <h3 align="center">
    Recent notes
