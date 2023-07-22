@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">If I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning.</p>
+<p align="center" id="quote">I am not here on earth to live up to someone else&rsquo;s expectations; my life belongs to me.</p>
 <hr>
 <h3 align="center">
    Recent notes
