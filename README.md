@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">I am not here on earth to live up to someone else&rsquo;s expectations; my life belongs to me.</p>
+<p align="center" id="quote">If you are not acting in a way which will help you achieve those targets, your self-esteem is bound to hurt.</p>
 <hr>
 <h3 align="center">
    Recent notes
