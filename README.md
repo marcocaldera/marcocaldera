@@ -48,7 +48,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/recent_notes.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="recent-notes"><a href="https://notes.marcocaldera.com/posts/2023-04-29-whats-worth-optimizing?utm_source=rss">What's worth optimizing</a><br><a href="https://notes.marcocaldera.com/posts/2023-04-15-education-in-the-metaverse?utm_source=rss">Education in the metaverse</a><br><a href="https://notes.marcocaldera.com/posts/2023-03-28-what-are-thoughts?utm_source=rss">What are thoughts?</a><br></p>
+<p align="center" id="recent-notes"><a href="https://notes.marcocaldera.com/posts/2023-07-16-is-aspartame-carcinogenic?utm_source=rss">Understanding the IARC Classification of Aspartame as a Possibly Carcinogen</a><br><a href="https://notes.marcocaldera.com/posts/2023-04-29-whats-worth-optimizing?utm_source=rss">What's worth optimizing</a><br><a href="https://notes.marcocaldera.com/posts/2023-04-15-education-in-the-metaverse?utm_source=rss">Education in the metaverse</a><br></p>
 <hr>
 <h3 align="center">
    Recent blog post
