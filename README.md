@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">If you are not acting in a way which will help you achieve those targets, your self-esteem is bound to hurt.</p>
+<p align="center" id="quote">Great work tends to grow out of ideas that others have overlooked, and no idea is so overlooked as one that&rsquo;s unthinkable.</p>
 <hr>
 <h3 align="center">
    Recent notes
