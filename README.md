@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Great work tends to grow out of ideas that others have overlooked, and no idea is so overlooked as one that&rsquo;s unthinkable.</p>
+<p align="center" id="quote">Just because your mind tells you that something is awful or evil or unplanned or otherwise negative doesn&rsquo;t mean you have to agree.</p>
 <hr>
 <h3 align="center">
    Recent notes
