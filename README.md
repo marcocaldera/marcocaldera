@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">The difference between failure and success is often just staying with a problem a little longer.One more rep.One more step.One more minute.One more revision.One more attempt.The difference between average and outstanding is often just one more.</p>
+<p align="center" id="quote">Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.</p>
 <hr>
 <h3 align="center">
    Recent notes
