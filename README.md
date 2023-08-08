@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Try to pick a profession in which you enjoy even the most mundane, tedious parts. Then you will always be happy.</p>
+<p align="center" id="quote">Live as if you were to die tomorrow. Learn as if you were to live forever.</p>
 <hr>
 <h3 align="center">
    Recent notes
