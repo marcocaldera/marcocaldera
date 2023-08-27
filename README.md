@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">In a world in which the total of human knowledge is doubling about every ten years, our security can rest only on our ability to learn.</p>
+<p align="center" id="quote">Try to pick a profession in which you enjoy even the most mundane, tedious parts. Then you will always be happy.</p>
 <hr>
 <h3 align="center">
    Recent notes
