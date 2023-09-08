@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">If my aim is to prove I am &ldquo;enough,&rdquo; the project goes on to infinity&mdash;because the battle was already lost on the day I conceded the issue was debatable.</p>
+<p align="center" id="quote">I think it&rsquo;s unrealistic to have confidence when you don&rsquo;t have an undeniable stack of proof that you are who you say you are.If the only place that your confidence exists is in your mind and you have never manifested it into reality then when you are asking for isn&rsquo;t confidence, it&rsquo;s a delusion.</p>
 <hr>
 <h3 align="center">
    Recent notes
