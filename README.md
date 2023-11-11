@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">It is impossible for a man to learn what he thinks he already knows.</p>
+<p align="center" id="quote">The most meaningful way to succeed is to help others to succeed</p>
 <hr>
 <h3 align="center">
    Recent notes
