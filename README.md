@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Fear and pain should be treated as signals not to close our eyes but to open them wider.</p>
+<p align="center" id="quote">If you're the smartest person in the room, then you're in the wrong room.</p>
 <hr>
 <h3 align="center">
    Recent notes
