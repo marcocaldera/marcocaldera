@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">If I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning.</p>
+<p align="center" id="quote">Leaving is never easy. But when you do leave, many new opportunities are waiting for you. Whether it is a place, a job, or a person, find the courage to leave the things that do not serve you anymore. Remember that the only time you are actually growing is when you are uncomfortable</p>
 <hr>
 <h3 align="center">
    Recent notes
