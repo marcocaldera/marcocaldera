@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">The best antidote for fear is competence.</p>
+<p align="center" id="quote">Spend each day trying to be a little wiser than you were when you woke up. Day by day, and at the end of the day&mdash;if you live long enough&mdash;like most people, you will get out of life what you deserve.</p>
 <hr>
 <h3 align="center">
    Recent notes
