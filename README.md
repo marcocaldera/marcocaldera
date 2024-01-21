@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">The joy of life comes from being better than you were yesterday, delighting in the true joys of life, and not in comparison to others</p>
+<p align="center" id="quote">Thoughts become things. If you see it in your mind, you will hold it in your hand.</p>
 <hr>
 <h3 align="center">
    Recent notes
