@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Fear and pain should be treated as signals not to close our eyes but to open them wider.</p>
+<p align="center" id="quote">Just because your mind tells you that something is awful or evil or unplanned or otherwise negative doesn&rsquo;t mean you have to agree.</p>
 <hr>
 <h3 align="center">
    Recent notes
