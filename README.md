@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Incominciai anche a capire che i dolori, le delusioni e la malinconia non sono fatti per renderci scontenti e toglierci valore e dignit&agrave;, ma per maturarci.</p>
+<p align="center" id="quote">The best time to plant a tree is twenty years ago. The second best time is now.</p>
 <hr>
 <h3 align="center">
    Recent notes
