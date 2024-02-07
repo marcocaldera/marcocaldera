@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">It&rsquo;s a sign of wisdom to avoid believing every thought that enters your mind. It&rsquo;s a mark of emotional intelligence to avoid internalizing every feeling that enters your heart.</p>
+<p align="center" id="quote">Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.</p>
 <hr>
 <h3 align="center">
    Recent notes
