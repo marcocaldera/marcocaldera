@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Fear and pain should be treated as signals not to close our eyes but to open them wider.</p>
+<p align="center" id="quote">Nothing can make our life, or the lives of other people, more beautiful than perpetual kindness.</p>
 <hr>
 <h3 align="center">
    Recent notes
