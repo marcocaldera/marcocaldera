@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">When you don't mind what's inside your mind you will be surprised at how much peace you will find</p>
+<p align="center" id="quote">If you are depressed you are living in the past.&nbsp;If you are anxious you are living in the future.&nbsp;If you are at peace you are living in the present</p>
 <hr>
 <h3 align="center">
    Recent notes
