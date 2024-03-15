@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">If I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning.</p>
+<p align="center" id="quote">Iniziare un nuovo cammino spaventa. Ma dopo ogni passo che percorriamo ci rendiamo conto di come era pericoloso rimanere fermi.</p>
 <hr>
 <h3 align="center">
    Recent notes
