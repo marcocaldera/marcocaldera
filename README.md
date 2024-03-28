@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Financial freedom isn&rsquo;t about money, it&rsquo;s about attention. The less you have to think about money, the more free you actually are.</p>
+<p align="center" id="quote">I think it&rsquo;s unrealistic to have confidence when you don&rsquo;t have an undeniable stack of proof that you are who you say you are.If the only place that your confidence exists is in your mind and you have never manifested it into reality then when you are asking for isn&rsquo;t confidence, it&rsquo;s a delusion.</p>
 <hr>
 <h3 align="center">
    Recent notes
