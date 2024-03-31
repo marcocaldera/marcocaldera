@@ -3,7 +3,7 @@ name: Change Quote
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 9 * * *" # Every day at 9 (UTC)
+    - cron: "0 7 * * *" # Every day at 7 (UTC)
 
 jobs:
   generate_quote:
