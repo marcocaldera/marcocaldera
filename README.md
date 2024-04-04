@@ -38,7 +38,9 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Because the one thing that you want to do, is to love. And that love should begin with you. Once you love you, you love the whole world. It's easy. It's delicious to love everybody and everything.</p>
+<p align="center" id="quote">Impostor syndrome: "I don't know what I'm doing. It's only a matter of time until everyone finds out."
+Growth mindset: "| don't know what I'm doing yet. It's only a matter of time until I figure it out."
+The highest form of self-confidence is believing in your ability to learn.</p>
 <hr>
 <h3 align="center">
    Recent notes
