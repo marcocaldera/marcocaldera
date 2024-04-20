@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">The most meaningful way to succeed is to help others to succeed</p>
+<p align="center" id="quote">How you live depends on which seeds you water.</p>
 <hr>
 <h3 align="center">
    Recent notes
