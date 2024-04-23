@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Incominciai anche a capire che i dolori, le delusioni e la malinconia non sono fatti per renderci scontenti e toglierci valore e dignit&agrave;, ma per maturarci.</p>
+<p align="center" id="quote">Many communicators try to make themselves look smart. Great listeners are more interested in making their audiences feel smart.</p>
 <hr>
 <h3 align="center">
    Recent notes
