@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">If you want something, go get it. Period.</p>
+<p align="center" id="quote">When you don't mind what's inside your mind you will be surprised at how much peace you will find.</p>
 <hr>
 <h3 align="center">
    Recent notes
