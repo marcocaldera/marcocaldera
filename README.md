@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Behold, I send you forth as sheep in the midst of wolves. Be ye therefore wise as serpents and harmless as doves</p>
+<p align="center" id="quote">Living consciously implies that my first loyalty is to truth, not to making myself right.</p>
 <hr>
 <h3 align="center">
    Recent notes
