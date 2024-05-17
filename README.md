@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">It's so simple: you spend less than you earn. Invest shrewdly. Avoid toxic people and toxic activities. Try to keep learning all your life. And do a lot of deferred gratification. If you do all those things, you are almost certain to succeed. And if you don't, you'll need a lot of luck. And you don't want to need a lot of luck. You want to go into a game where you're very likely to win without having any unusual luck.</p>
+<p align="center" id="quote">Spend each day trying to be a little wiser than you were when you woke up. Day by day, and at the end of the day&mdash;if you live long enough&mdash;like most people, you will get out of life what you deserve.</p>
 <hr>
 <h3 align="center">
    Recent notes
