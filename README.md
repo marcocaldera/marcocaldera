@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Spend each day trying to be a little wiser than you were when you woke up. Day by day, and at the end of the day&mdash;if you live long enough&mdash;like most people, you will get out of life what you deserve.</p>
+<p align="center" id="quote">I think it&rsquo;s unrealistic to have confidence when you don&rsquo;t have an undeniable stack of proof that you are who you say you are.If the only place that your confidence exists is in your mind and you have never manifested it into reality then when you are asking for isn&rsquo;t confidence, it&rsquo;s a delusion.</p>
 <hr>
 <h3 align="center">
    Recent notes
