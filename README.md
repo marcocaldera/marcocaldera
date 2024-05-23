@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Don&rsquo;t aim to be the best, be the only.</p>
+<p align="center" id="quote">If you don&rsquo;t heal from those who hurt you, you'll bleed on the ones who love you</p>
 <hr>
 <h3 align="center">
    Recent notes
