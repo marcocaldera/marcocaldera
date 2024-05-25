@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">The best time to plant a tree is twenty years ago. The second best time is now.</p>
+<p align="center" id="quote">What we experience is change, not time. Aristotle observed that time does not exist without change, because what we call time is simply our measurement of the difference between &ldquo;before&rdquo; and &ldquo;after&rdquo;.</p>
 <hr>
 <h3 align="center">
    Recent notes
