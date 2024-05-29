@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Over time, the person who approaches life with an openness to being wrong and a willingness to learn outperforms the person who doesn&rsquo;t.</p>
+<p align="center" id="quote">Try to pick a profession in which you enjoy even the most mundane, tedious parts. Then you will always be happy.</p>
 <hr>
 <h3 align="center">
    Recent notes
