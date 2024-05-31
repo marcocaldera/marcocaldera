@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">If you're the smartest person in the room, then you're in the wrong room.</p>
+<p align="center" id="quote">The moment you doubt whether you can fly, you cease forever to be able to do it.</p>
 <hr>
 <h3 align="center">
    Recent notes
