@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">If you don&rsquo;t heal from those who hurt you, you'll bleed on the ones who love you</p>
+<p align="center" id="quote">We are training kids and people to be soft, in a world that continuously gets harder.</p>
 <hr>
 <h3 align="center">
    Recent notes
