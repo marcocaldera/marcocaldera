@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Things you do for yourself are gone when you are gone, but the things you do for others remain as your [and their] legacy</p>
+<p align="center" id="quote">Don&rsquo;t aim to be the best, be the only.</p>
 <hr>
 <h3 align="center">
    Recent notes
