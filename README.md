@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Over time, the person who approaches life with an openness to being wrong and a willingness to learn outperforms the person who doesn&rsquo;t.</p>
+<p align="center" id="quote">We have two ears and one mouth, therefore we should listen twice as much as we speak.</p>
 <hr>
 <h3 align="center">
    Recent notes
