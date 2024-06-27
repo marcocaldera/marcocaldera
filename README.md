@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">The best is the enemy of the good.</p>
+<p align="center" id="quote">I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.</p>
 <hr>
 <h3 align="center">
    Recent notes
