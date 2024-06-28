@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.</p>
+<p align="center" id="quote">Often what people call &ldquo;thinking&rdquo; is merely recycling the opinions of others.</p>
 <hr>
 <h3 align="center">
    Recent notes
