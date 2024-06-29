@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Often what people call &ldquo;thinking&rdquo; is merely recycling the opinions of others.</p>
+<p align="center" id="quote">Every man must decide whether he will walk in the light of creative altruism or in the darkness of destructive selfishness. </p>
 <hr>
 <h3 align="center">
    Recent notes
