@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">&ldquo;If you don&rsquo;t look back at yourself and think,21 &lsquo;Wow, how stupid I was a year ago,&rsquo; then you must not have learned much in the last year.&rdquo;</p>
+<p align="center" id="quote">Many of life&rsquo;s failures are people who didn&rsquo;t realize how close they were to success when they gave up.</p>
 <hr>
 <h3 align="center">
    Recent notes
