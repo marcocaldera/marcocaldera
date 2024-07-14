@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">The best time to plant a tree is twenty years ago. The second best time is now.</p>
+<p align="center" id="quote">Fear and pain should be treated as signals not to close our eyes but to open them wider.</p>
 <hr>
 <h3 align="center">
    Recent notes
