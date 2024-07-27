@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Most of the issues of integrity we face are not big issues but small ones, yet the accumulated weight of our choices has an impact on our sense of self.</p>
+<p align="center" id="quote">The moment you doubt whether you can fly, you cease forever to be able to do it.</p>
 <hr>
 <h3 align="center">
    Recent notes
