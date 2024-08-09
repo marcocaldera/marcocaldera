@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Species that are more responsive to change can gain a relative advantage over the ones they compete with and increase the odds of survival. In the short run, these small gains don&rsquo;t make much of a difference, but as generations pass the advantages compound.</p>
+<p align="center" id="quote">You&rsquo;re only as good as you&rsquo;re willing to be bad&hellip;The fact that you&rsquo;re not going to be good at something or that you&rsquo;re going to fail at something&mdash;that&rsquo;s OK. Because you&rsquo;re never going to get good unless you&rsquo;re willing to be bad.</p>
 <hr>
 <h3 align="center">
    Recent notes
