@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">The best time to plant a tree is twenty years ago. The second best time is now.</p>
+<p align="center" id="quote">&hellip;learn more from people who challenge our thought process than from those who affirm our conclusions.</p>
 <hr>
 <h3 align="center">
    Recent notes
