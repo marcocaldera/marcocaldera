@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">I am not here on earth to live up to someone else&rsquo;s expectations; my life belongs to me.</p>
+<p align="center" id="quote">Incominciai anche a capire che i dolori, le delusioni e la malinconia non sono fatti per renderci scontenti e toglierci valore e dignit&agrave;, ma per maturarci.</p>
 <hr>
 <h3 align="center">
    Recent notes
