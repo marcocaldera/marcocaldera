@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">We are training kids and people to be soft, in a world that continuously gets harder.</p>
+<p align="center" id="quote">Great work tends to grow out of ideas that others have overlooked, and no idea is so overlooked as one that&rsquo;s unthinkable.</p>
 <hr>
 <h3 align="center">
    Recent notes
