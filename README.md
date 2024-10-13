@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">If you are depressed you are living in the past.&nbsp;If you are anxious you are living in the future.&nbsp;If you are at peace you are living in the present</p>
+<p align="center" id="quote">The best is the enemy of the good.</p>
 <hr>
 <h3 align="center">
    Recent notes
@@ -48,7 +48,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/recent_notes.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="recent-notes"><a href="https://notes.marcocaldera.com/posts/2023-04-15-education-in-the-metaverse?utm_source=rss">Education in the metaverse</a><br><a href="https://notes.marcocaldera.com/posts/2023-03-28-what-are-thoughts?utm_source=rss">What are thoughts?</a><br><a href="https://notes.marcocaldera.com/posts/2023-02-08-memento-mori?utm_source=rss">Memento mori</a><br></p>
+<p align="center" id="recent-notes"><a href="https://notes.marcocaldera.com/posts/2023-07-16-is-aspartame-carcinogenic?utm_source=rss">Understanding the IARC Classification of Aspartame as a Possibly Carcinogen</a><br><a href="https://notes.marcocaldera.com/posts/2023-04-29-whats-worth-optimizing?utm_source=rss">What's worth optimizing</a><br><a href="https://notes.marcocaldera.com/posts/2023-04-15-education-in-the-metaverse?utm_source=rss">Education in the metaverse</a><br></p>
 <hr>
 <h3 align="center">
    Recent blog post
@@ -58,7 +58,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/recent_post.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="recent-post"><a href="https://marcocaldera.com/2022/12/18/youre-not-great/">You&rsquo;re Not Great</a><br><a href="https://marcocaldera.com/2021/12/28/is-being-an-extrovert-the-only-way-to-be-successful/">Is Being An Extrovert the Only Way to Be Successful?</a><br><a href="https://marcocaldera.com/2022/06/28/living-consciously/">Living Consciously</a><br></p>
+<p align="center" id="recent-post"></p>
 <hr>
 <h3 align="center">
    Tools I love
