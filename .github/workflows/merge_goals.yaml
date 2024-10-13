@@ -4,6 +4,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 7 * * *" # Every day at 7 (UTC)
+  push:
+    paths:
+      - 'data/goals/**'
 
 jobs:
   merge_goals:
