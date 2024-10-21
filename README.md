@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Leaving is never easy. But when you do leave, many new opportunities are waiting for you. Whether it is a place, a job, or a person, find the courage to leave the things that do not serve you anymore. Remember that the only time you are actually growing is when you are uncomfortable</p>
+<p align="center" id="quote">The joy of life comes from being better than you were yesterday, delighting in the true joys of life, and not in comparison to others</p>
 <hr>
 <h3 align="center">
    Recent notes
