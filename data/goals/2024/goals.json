@@ -9,7 +9,8 @@
     "title": "🏃‍♂️",
     "description": "Run 2024 Amsterdam Marathon",
     "quarter": 4,
-    "year": 2024
+    "year": 2024,
+    "achieved": true
   },
   {
     "title": "💻",
