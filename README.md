@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">We have two ears and one mouth, therefore we should listen twice as much as we speak.</p>
+<p align="center" id="quote">Great work tends to grow out of ideas that others have overlooked, and no idea is so overlooked as one that&rsquo;s unthinkable.</p>
 <hr>
 <h3 align="center">
    Recent notes
