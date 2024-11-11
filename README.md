@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Great work tends to grow out of ideas that others have overlooked, and no idea is so overlooked as one that&rsquo;s unthinkable.</p>
+<p align="center" id="quote">The difference between failure and success is often just staying with a problem a little longer.One more rep.One more step.One more minute.One more revision.One more attempt.The difference between average and outstanding is often just one more.</p>
 <hr>
 <h3 align="center">
    Recent notes
