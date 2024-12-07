@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">What the wise man does in the beginning, the fool does in the end.</p>
+<p align="center" id="quote">Behold, I send you forth as sheep in the midst of wolves. Be ye therefore wise as serpents and harmless as doves</p>
 <hr>
 <h3 align="center">
    Recent notes
