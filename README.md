@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Often what people call &ldquo;thinking&rdquo; is merely recycling the opinions of others.</p>
+<p align="center" id="quote">The common trait of people who supposedly have vision is that they spend a lot of time reading and gathering information, and then they synthesize it until they come up with an idea.</p>
 <hr>
 <h3 align="center">
    Recent notes
