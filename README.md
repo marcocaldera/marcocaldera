@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">If my aim is to prove I am &ldquo;enough,&rdquo; the project goes on to infinity&mdash;because the battle was already lost on the day I conceded the issue was debatable.</p>
+<p align="center" id="quote">A year from now, you will wish you had started today.</p>
 <hr>
 <h3 align="center">
    Recent notes
