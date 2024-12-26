@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">A year from now, you will wish you had started today.</p>
+<p align="center" id="quote">When things change, we must change.</p>
 <hr>
 <h3 align="center">
    Recent notes
