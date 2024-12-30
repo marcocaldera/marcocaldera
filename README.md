@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Who you are is defined by what you&rsquo;re willing to struggle for </p>
+<p align="center" id="quote">Financial freedom isn&rsquo;t about money, it&rsquo;s about attention. The less you have to think about money, the more free you actually are.</p>
 <hr>
 <h3 align="center">
    Recent notes
