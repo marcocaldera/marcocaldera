@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">More is missed by not looking than not knowing.</p>
+<p align="center" id="quote">I want to improve the world, and I want to smell good while doing it.</p>
 <hr>
 <h3 align="center">
    Recent notes
