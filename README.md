@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Her confidence wasn&rsquo;t in her existing knowledge&mdash;it was in her capacity to learn.</p>
+<p align="center" id="quote">One day&hellip; or day one!</p>
 <hr>
 <h3 align="center">
    Recent notes
