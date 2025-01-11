@@ -39,5 +39,17 @@
     "description": "Read 5 books",
     "quarter": 1,
     "year": 2025
+  },
+  {
+    "title": "\ud83d\udde3\ufe0f",
+    "description": "Have two 20min voice conversations a week with ChatGPT in Spanish",
+    "quarter": 1,
+    "year": 2025
+  },
+  {
+    "title": "\ud83d\udc55",
+    "description": "Do not buy any clothes",
+    "quarter": 1,
+    "year": 2025
   }
 ]
