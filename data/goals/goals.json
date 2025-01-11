@@ -15,7 +15,7 @@
   },
   {
     "title": "\ud83d\udcbb",
-    "description": "Course or book on leadership and negotiation",
+    "description": "Course or book on leadership",
     "quarter": 4,
     "year": 2024
   },
@@ -26,5 +26,18 @@
     "year": 2024,
     "isPrivate": true,
     "achieved": true
+  },
+  {
+    "title": "\ud83e\udd16",
+    "description": "Add AI reflection and in-app purchases to my side project",
+    "quarter": 1,
+    "year": 2025,
+    "achieved": true
+  },
+  {
+    "title": "\ud83d\udcd8",
+    "description": "Read 5 books",
+    "quarter": 1,
+    "year": 2025
   }
 ]
