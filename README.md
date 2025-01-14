@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">You&rsquo;re only as good as you&rsquo;re willing to be bad&hellip;The fact that you&rsquo;re not going to be good at something or that you&rsquo;re going to fail at something&mdash;that&rsquo;s OK. Because you&rsquo;re never going to get good unless you&rsquo;re willing to be bad.</p>
+<p align="center" id="quote">Try to pick a profession in which you enjoy even the most mundane, tedious parts. Then you will always be happy.</p>
 <hr>
 <h3 align="center">
    Recent notes
