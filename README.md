@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">The best is the enemy of the good.</p>
+<p align="center" id="quote">The best antidote for fear is competence.</p>
 <hr>
 <h3 align="center">
    Recent notes
