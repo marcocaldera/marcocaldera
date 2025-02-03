@@ -9,19 +9,19 @@
 <!-- Badges: https://shields.io/ -->
 <p align="center">
 <a href="https://github.com/marcocaldera?tab=repositories">
-<img src="https://img.shields.io/badge/-Github-000?style=flat&amp;logo=Github&amp;logoColor=white">
+<img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white">
 </a>
 <a href="linkedin.com/in/marco-caldera">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">
 </a>
 <a href="https://marcocaldera.com/blog">
-<img src="https://img.shields.io/badge/-Blog-3559f5?style=flat&amp;logo=Blogger&amp;logoColor=white">
+<img src="https://img.shields.io/badge/-Blog-3559f5?style=flat&logo=Blogger&logoColor=white">
 </a>
 <a href="https://goodreads.com/marco_caldera">
-<img src="https://img.shields.io/badge/-Goodreads-372213?style=flat&amp;logo=Goodreads&amp;logoColor=white">
+<img src="https://img.shields.io/badge/-Goodreads-372213?style=flat&logo=Goodreads&logoColor=white">
 </a>
 <a href="https://notes.marcocaldera.com">
-<img src="https://img.shields.io/badge/-Notes-64bb2e?style=flat&amp;logo=blogger&amp;logoColor=white">
+<img src="https://img.shields.io/badge/-Notes-64bb2e?style=flat&logo=blogger&logoColor=white">
 </a>
 <!--
    <a href="https://stackoverflow.com/users/5878210/marco-caldera">
@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Being the richest man in the cemetery doesn't matter to me. Going to bed at night saying we've done something meaningful, that's what matters to me.</p>
+<p align="center" id="quote">If you are not acting in a way which will help you achieve those targets, your self-esteem is bound to hurt.</p>
 <hr>
 <h3 align="center">
    Recent notes
@@ -92,14 +92,14 @@
 <a href="https://marcocaldera.com/portfolio/personal-journal-a-sigh-of-relief/">
 <img src="https://img.shields.io/badge/Personal Journal-3559f5">
 </a>
-<a href="https://apps.apple.com/app/diario-personale/id1553430631?ign-itscg=30200&amp;ign-itsct=apps_box_badge">
+<a href="https://apps.apple.com/app/diario-personale/id1553430631?ign-itscg=30200&ign-itsct=apps_box_badge">
 <img src="https://img.shields.io/itunes/v/1553430631.svg">
 </a>
 <br>
 <a href="https://marcocaldera.com/portfolio/marys-recipes-legacy-for-generations">
 <img src="https://img.shields.io/badge/My Recipes-3559f5">
 </a>
-<a href="https://apps.apple.com/app/marys-recipes/id1538358384?itsct=apps_box_badge&amp;itscg=30200">
+<a href="https://apps.apple.com/app/marys-recipes/id1538358384?itsct=apps_box_badge&itscg=30200">
 <img src="https://img.shields.io/itunes/v/1538358384.svg">
 </a>
 </p>
