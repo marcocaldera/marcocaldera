@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Great work tends to grow out of ideas that others have overlooked, and no idea is so overlooked as one that&rsquo;s unthinkable.</p>
+<p align="center" id="quote">Financial freedom isn&rsquo;t about money, it&rsquo;s about attention. The less you have to think about money, the more free you actually are.</p>
 <hr>
 <h3 align="center">
    Recent notes
