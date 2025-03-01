@@ -38,7 +38,9 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">If you are depressed you are living in the past.&nbsp;If you are anxious you are living in the future.&nbsp;If you are at peace you are living in the present</p>
+<p align="center" id="quote">Impostor syndrome: "I don't know what I'm doing. It's only a matter of time until everyone finds out."
+Growth mindset: "| don't know what I'm doing yet. It's only a matter of time until I figure it out."
+The highest form of self-confidence is believing in your ability to learn.</p>
 <hr>
 <h3 align="center">
    Recent notes
