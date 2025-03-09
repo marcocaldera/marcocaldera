@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">If you are not acting in a way which will help you achieve those targets, your self-esteem is bound to hurt.</p>
+<p align="center" id="quote">The difference between failure and success is often just staying with a problem a little longer.One more rep.One more step.One more minute.One more revision.One more attempt.The difference between average and outstanding is often just one more.</p>
 <hr>
 <h3 align="center">
    Recent notes
