@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">What the wise man does in the beginning, the fool does in the end.</p>
+<p align="center" id="quote">If knowledge is power, knowing what we don&rsquo;t know is wisdom.</p>
 <hr>
 <h3 align="center">
    Recent notes
