@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">We are training kids and people to be soft, in a world that continuously gets harder.</p>
+<p align="center" id="quote">Your outcomes are a lagging measure of your habits.</p>
 <hr>
 <h3 align="center">
    Recent notes
