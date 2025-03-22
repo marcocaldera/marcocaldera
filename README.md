@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">The best antidote for fear is competence.</p>
+<p align="center" id="quote">Species that are more responsive to change can gain a relative advantage over the ones they compete with and increase the odds of survival. In the short run, these small gains don&rsquo;t make much of a difference, but as generations pass the advantages compound.</p>
 <hr>
 <h3 align="center">
    Recent notes
