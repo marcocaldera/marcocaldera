@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">What would you tomorrow want you today to do?</p>
+<p align="center" id="quote">I am not here on earth to live up to someone else&rsquo;s expectations; my life belongs to me.</p>
 <hr>
 <h3 align="center">
    Recent notes
