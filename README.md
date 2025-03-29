@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">I am not here on earth to live up to someone else&rsquo;s expectations; my life belongs to me.</p>
+<p align="center" id="quote">The best time to plant a tree is twenty years ago. The second best time is now.</p>
 <hr>
 <h3 align="center">
    Recent notes
