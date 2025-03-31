@@ -10,7 +10,8 @@
     "title": "📘",
     "description": "Read 5 books",
     "quarter": 1,
-    "year": 2025
+    "year": 2025,
+    "achieved": true
   },
   {
     "title": "🗣️",
@@ -22,6 +23,7 @@
     "title": "👕",
     "description": "Do not buy any clothes",
     "quarter": 1,
-    "year": 2025
+    "year": 2025,
+    "achieved": true
   }
 ]
