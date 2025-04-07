@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Every man must decide whether he will walk in the light of creative altruism or in the darkness of destructive selfishness. </p>
+<p align="center" id="quote">Do not use power to suppress opinions you think pernicious, for if you do the opinions will suppress you.</p>
 <hr>
 <h3 align="center">
    Recent notes
