@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">If you want to show that you have resources to spare, nothing beats waste. Indiscriminate waste shows that you really have resources to spare. (e.g., Ferrari, Rolex, etc.)</p>
+<p align="center" id="quote">More is missed by not looking than not knowing.</p>
 <hr>
 <h3 align="center">
    Recent notes
