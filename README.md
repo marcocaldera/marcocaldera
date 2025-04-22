@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">One day&hellip; or day one!</p>
+<p align="center" id="quote">Action produces information. Just keep doing stuff.</p>
 <hr>
 <h3 align="center">
    Recent notes
