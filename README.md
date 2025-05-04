@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">When things change, we must change.</p>
+<p align="center" id="quote">The future is here, it&rsquo;s just not evenly distributed yet.</p>
 <hr>
 <h3 align="center">
    Recent notes
