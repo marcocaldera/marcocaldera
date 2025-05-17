@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">The common trait of people who supposedly have vision is that they spend a lot of time reading and gathering information, and then they synthesize it until they come up with an idea.</p>
+<p align="center" id="quote">&ldquo;If you don&rsquo;t look back at yourself and think,21 &lsquo;Wow, how stupid I was a year ago,&rsquo; then you must not have learned much in the last year.&rdquo;</p>
 <hr>
 <h3 align="center">
    Recent notes
