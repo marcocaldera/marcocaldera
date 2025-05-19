@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Practice isn't the thing you do once you're good. It's the thing you do that makes you good.</p>
+<p align="center" id="quote">&hellip;learn more from people who challenge our thought process than from those who affirm our conclusions.</p>
 <hr>
 <h3 align="center">
    Recent notes
