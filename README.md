@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">To the extent that I evade responsibility, I inflict wounds on my self-esteem. In accepting responsibility, I build self-esteem.</p>
+<p align="center" id="quote">The magic you are looking for is in the work you&rsquo;re avoiding.</p>
 <hr>
 <h3 align="center">
    Recent notes
