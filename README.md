@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Living consciously implies that my first loyalty is to truth, not to making myself right.</p>
+<p align="center" id="quote">We suffer more in imagination than in reality.</p>
 <hr>
 <h3 align="center">
    Recent notes
