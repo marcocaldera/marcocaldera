@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">The more I learn, the more I realise how much I don't know.</p>
+<p align="center" id="quote">A year from now, you will wish you had started today.</p>
 <hr>
 <h3 align="center">
    Recent notes
