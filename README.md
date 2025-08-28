@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.</p>
+<p align="center" id="quote">Every man must decide whether he will walk in the light of creative altruism or in the darkness of destructive selfishness. </p>
 <hr>
 <h3 align="center">
    Recent notes
