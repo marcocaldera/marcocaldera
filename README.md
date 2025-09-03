@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">It's so simple: you spend less than you earn. Invest shrewdly. Avoid toxic people and toxic activities. Try to keep learning all your life. And do a lot of deferred gratification. If you do all those things, you are almost certain to succeed. And if you don't, you'll need a lot of luck. And you don't want to need a lot of luck. You want to go into a game where you're very likely to win without having any unusual luck.</p>
+<p align="center" id="quote">When nothing seems to help, I go and look at a stonecutter hammering away at his rock perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow, it will split in two, and I know it was not that blow that did it, but all that had gone before.</p>
 <hr>
 <h3 align="center">
    Recent notes
