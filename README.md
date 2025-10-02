@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Hard times create strong men. Strong men create good times. Good times create soft men. And, soft men create hard times.</p>
+<p align="center" id="quote">The future is here, it&rsquo;s just not evenly distributed yet.</p>
 <hr>
 <h3 align="center">
    Recent notes
