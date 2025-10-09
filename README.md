@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">We suffer more in imagination than in reality.</p>
+<p align="center" id="quote">Who you are is defined by what you&rsquo;re willing to struggle for </p>
 <hr>
 <h3 align="center">
    Recent notes
