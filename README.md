@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">If an idiot were to tell you the same story every day for a year, you would end by believing it.</p>
+<p align="center" id="quote">Over time, the person who approaches life with an openness to being wrong and a willingness to learn outperforms the person who doesn&rsquo;t.</p>
 <hr>
 <h3 align="center">
    Recent notes
