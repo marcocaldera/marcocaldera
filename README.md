@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Just because you love someone doesn&rsquo;t mean they are good for you. Love doesn&rsquo;t fix relationship problems, it amplifies them.</p>
+<p align="center" id="quote">If an idiot were to tell you the same story every day for a year, you would end by believing it.</p>
 <hr>
 <h3 align="center">
    Recent notes
