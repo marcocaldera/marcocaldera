@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Just because your mind tells you that something is awful or evil or unplanned or otherwise negative doesn&rsquo;t mean you have to agree.</p>
+<p align="center" id="quote">Because the one thing that you want to do, is to love. And that love should begin with you. Once you love you, you love the whole world. It's easy. It's delicious to love everybody and everything.</p>
 <hr>
 <h3 align="center">
    Recent notes
