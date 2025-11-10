@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">When you don't mind what's inside your mind you will be surprised at how much peace you will find.</p>
+<p align="center" id="quote">Things you do for yourself are gone when you are gone, but the things you do for others remain as your [and their] legacy</p>
 <hr>
 <h3 align="center">
    Recent notes
