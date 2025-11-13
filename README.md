@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Behold, I send you forth as sheep in the midst of wolves. Be ye therefore wise as serpents and harmless as doves</p>
+<p align="center" id="quote">Iniziare un nuovo cammino spaventa. Ma dopo ogni passo che percorriamo ci rendiamo conto di come era pericoloso rimanere fermi.</p>
 <hr>
 <h3 align="center">
    Recent notes
