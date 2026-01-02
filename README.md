@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">&hellip;learn more from people who challenge our thought process than from those who affirm our conclusions.</p>
+<p align="center" id="quote">The more I learn, the more I realise how much I don't know.</p>
 <hr>
 <h3 align="center">
    Recent notes
