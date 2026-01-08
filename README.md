@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.</p>
+<p align="center" id="quote">Being the richest man in the cemetery doesn't matter to me. Going to bed at night saying we've done something meaningful, that's what matters to me.</p>
 <hr>
 <h3 align="center">
    Recent notes
