@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Tis better to have loved and lost than never to have loved at all.</p>
+<p align="center" id="quote">Live as if you were to die tomorrow. Learn as if you were to live forever.</p>
 <hr>
 <h3 align="center">
    Recent notes
