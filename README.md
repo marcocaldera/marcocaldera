@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">A year from now, you will wish you had started today.</p>
+<p align="center" id="quote">Your outcomes are a lagging measure of your habits.</p>
 <hr>
 <h3 align="center">
    Recent notes
