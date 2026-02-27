@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Incominciai anche a capire che i dolori, le delusioni e la malinconia non sono fatti per renderci scontenti e toglierci valore e dignit&agrave;, ma per maturarci.</p>
+<p align="center" id="quote">A year from now, you will wish you had started today.</p>
 <hr>
 <h3 align="center">
    Recent notes
