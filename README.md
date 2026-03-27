@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">If an idiot were to tell you the same story every day for a year, you would end by believing it.</p>
+<p align="center" id="quote">Because the one thing that you want to do, is to love. And that love should begin with you. Once you love you, you love the whole world. It's easy. It's delicious to love everybody and everything.</p>
 <hr>
 <h3 align="center">
    Recent notes
