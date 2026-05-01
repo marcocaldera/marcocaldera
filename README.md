@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">When nothing seems to help, I go and look at a stonecutter hammering away at his rock perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow, it will split in two, and I know it was not that blow that did it, but all that had gone before.</p>
+<p align="center" id="quote">&ldquo;If you don&rsquo;t look back at yourself and think,21 &lsquo;Wow, how stupid I was a year ago,&rsquo; then you must not have learned much in the last year.&rdquo;</p>
 <hr>
 <h3 align="center">
    Recent notes
