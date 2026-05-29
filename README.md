@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Leaving is never easy. But when you do leave, many new opportunities are waiting for you. Whether it is a place, a job, or a person, find the courage to leave the things that do not serve you anymore. Remember that the only time you are actually growing is when you are uncomfortable</p>
+<p align="center" id="quote">Because the one thing that you want to do, is to love. And that love should begin with you. Once you love you, you love the whole world. It's easy. It's delicious to love everybody and everything.</p>
 <hr>
 <h3 align="center">
    Recent notes
