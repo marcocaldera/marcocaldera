@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Nothing can make our life, or the lives of other people, more beautiful than perpetual kindness.</p>
+<p align="center" id="quote">Over time, the person who approaches life with an openness to being wrong and a willingness to learn outperforms the person who doesn&rsquo;t.</p>
 <hr>
 <h3 align="center">
    Recent notes
