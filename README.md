@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Over time, the person who approaches life with an openness to being wrong and a willingness to learn outperforms the person who doesn&rsquo;t.</p>
+<p align="center" id="quote">Her confidence wasn&rsquo;t in her existing knowledge&mdash;it was in her capacity to learn.</p>
 <hr>
 <h3 align="center">
    Recent notes
