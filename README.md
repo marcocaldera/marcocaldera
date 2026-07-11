@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Don&rsquo;t aim to be the best, be the only.</p>
+<p align="center" id="quote">Many of life&rsquo;s failures are people who didn&rsquo;t realize how close they were to success when they gave up.</p>
 <hr>
 <h3 align="center">
    Recent notes
