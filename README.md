@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Behold, I send you forth as sheep in the midst of wolves. Be ye therefore wise as serpents and harmless as doves</p>
+<p align="center" id="quote">If you're the smartest person in the room, then you're in the wrong room.</p>
 <hr>
 <h3 align="center">
    Recent notes
