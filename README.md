@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Incominciai anche a capire che i dolori, le delusioni e la malinconia non sono fatti per renderci scontenti e toglierci valore e dignit&agrave;, ma per maturarci.</p>
+<p align="center" id="quote">It is impossible for a man to learn what he thinks he already knows.</p>
 <hr>
 <h3 align="center">
    Recent notes
