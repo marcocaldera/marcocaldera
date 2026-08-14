@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">It&rsquo;s a sign of wisdom to avoid believing every thought that enters your mind. It&rsquo;s a mark of emotional intelligence to avoid internalizing every feeling that enters your heart.</p>
+<p align="center" id="quote">If an idiot were to tell you the same story every day for a year, you would end by believing it.</p>
 <hr>
 <h3 align="center">
    Recent notes
