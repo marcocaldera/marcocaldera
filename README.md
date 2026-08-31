@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">The common trait of people who supposedly have vision is that they spend a lot of time reading and gathering information, and then they synthesize it until they come up with an idea.</p>
+<p align="center" id="quote">Species that are more responsive to change can gain a relative advantage over the ones they compete with and increase the odds of survival. In the short run, these small gains don&rsquo;t make much of a difference, but as generations pass the advantages compound.</p>
 <hr>
 <h3 align="center">
    Recent notes
