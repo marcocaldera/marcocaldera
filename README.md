@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">The magic you are looking for is in the work you&rsquo;re avoiding.</p>
+<p align="center" id="quote">We suffer more in imagination than in reality.</p>
 <hr>
 <h3 align="center">
    Recent notes
