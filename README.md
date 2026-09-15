@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Just because your mind tells you that something is awful or evil or unplanned or otherwise negative doesn&rsquo;t mean you have to agree.</p>
+<p align="center" id="quote">I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.</p>
 <hr>
 <h3 align="center">
    Recent notes
