@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.</p>
+<p align="center" id="quote">It is impossible for a man to learn what he thinks he already knows.</p>
 <hr>
 <h3 align="center">
    Recent notes
