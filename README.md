@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Species that are more responsive to change can gain a relative advantage over the ones they compete with and increase the odds of survival. In the short run, these small gains don&rsquo;t make much of a difference, but as generations pass the advantages compound.</p>
+<p align="center" id="quote">Spend each day trying to be a little wiser than you were when you woke up. Day by day, and at the end of the day&mdash;if you live long enough&mdash;like most people, you will get out of life what you deserve.</p>
 <hr>
 <h3 align="center">
    Recent notes
