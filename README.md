@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Nothing can make our life, or the lives of other people, more beautiful than perpetual kindness.</p>
+<p align="center" id="quote">Do not use power to suppress opinions you think pernicious, for if you do the opinions will suppress you.</p>
 <hr>
 <h3 align="center">
    Recent notes
