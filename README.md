@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Because the one thing that you want to do, is to love. And that love should begin with you. Once you love you, you love the whole world. It's easy. It's delicious to love everybody and everything.</p>
+<p align="center" id="quote">Do not use power to suppress opinions you think pernicious, for if you do the opinions will suppress you.</p>
 <hr>
 <h3 align="center">
    Recent notes
