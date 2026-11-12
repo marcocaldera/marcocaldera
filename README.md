@@ -38,7 +38,7 @@
 <img src="https://github.com/marcocaldera/marcocaldera/actions/workflows/quote.yaml/badge.svg">
 </a>
 </p>
-<p align="center" id="quote">Always assume you are as smart as any other person in the room, never assume you know as much as they do.</p>
+<p align="center" id="quote">Her confidence wasn&rsquo;t in her existing knowledge&mdash;it was in her capacity to learn.</p>
 <hr>
 <h3 align="center">
    Recent notes
